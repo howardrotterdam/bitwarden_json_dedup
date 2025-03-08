@@ -8,6 +8,16 @@ Most of the code were [created by](claude.md) free version of [Anthropic Claude 
 Sonnet](https://claude.ai/). This demonstrates how AI code generator can help in
 daily work of a programmer by providing handy tools effortlessly.
 
+Answers of major AI engines:
+
+- [Antropic Claude](claude.md)
+- [Deepseek](deepseek.md)
+- [OpenAI ChatGPT](chatgpt.md)
+- [Microsoft CoPilot](copilot.md)
+- [xAI Grok](grok.md)
+- [Mistra Le Chat](mistra.md)
+- [Google Gemini](gemini.md)
+
 Hopefully major [Bitwarden client apps](#bitwarden-client-apps) will provide
 such deduplicate function.
 
