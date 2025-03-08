@@ -1,0 +1,158 @@
+{
+  "encrypted": false,
+  "folders": [
+    {
+      "id": "xxx",
+      "name": "xxx"
+    },
+    {
+      "id": "xxx",
+      "name": "xxx"
+    }
+  ],
+  "items": [
+    {
+      "passwordHistory": [
+        {
+          "lastUsedDate": "xxx",
+          "password": "xxx"
+        }
+      ],
+      "revisionDate": "xxx",
+      "creationDate": "xxx",
+      "deletedDate": null,
+      "id": "xxx",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "xxx",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "xxx"
+          }
+        ],
+        "username": "xxx",
+        "password": "xxx",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "xxx",
+      "creationDate": "xxx",
+      "deletedDate": null,
+      "id": "xxx",
+      "organizationId": null,
+      "folderId": "xxx",
+      "type": 2,
+      "reprompt": 0,
+      "name": "xxx",
+      "notes": null,
+      "favorite": false,
+      "fields": [
+        {
+          "name": "xxx",
+          "value": "xxx",
+          "type": 0,
+          "linkedId": null
+        },
+        {
+          "name": "xxx",
+          "value": "xxx",
+          "type": 0,
+          "linkedId": null
+        },
+        {
+          "name": "xxx",
+          "value": "xxx",
+          "type": 0,
+          "linkedId": null
+        },
+        {
+          "name": "xxx",
+          "value": "xxx",
+          "type": 0,
+          "linkedId": null
+        },
+        {
+          "name": "xxx",
+          "value": "xxx",
+          "type": 0,
+          "linkedId": null
+        },
+        {
+          "name": "xxx",
+          "value": "xxx",
+          "type": 0,
+          "linkedId": null
+        },
+        {
+          "name": "xxx",
+          "value": "xxx",
+          "type": 0,
+          "linkedId": null
+        },
+        {
+          "name": "xxx",
+          "value": "xxx",
+          "type": 0,
+          "linkedId": null
+        }
+      ],
+      "secureNote": {
+        "type": 0
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "xxx",
+      "creationDate": "xxx",
+      "deletedDate": null,
+      "id": "xxx",
+      "organizationId": null,
+      "folderId": "xxx",
+      "type": 3,
+      "reprompt": 0,
+      "name": "xxx",
+      "notes": null,
+      "favorite": false,
+      "fields": [
+        {
+          "name": "xxx",
+          "value": "xxx",
+          "type": 1,
+          "linkedId": null
+        },
+        {
+          "name": "xxx",
+          "value": "xxx",
+          "type": 0,
+          "linkedId": null
+        },
+        {
+          "name": "xxx",
+          "value": "xxx",
+          "type": 0,
+          "linkedId": null
+        }
+      ],
+      "card": {
+        "cardholderName": "xxx",
+        "brand": null,
+        "number": "xxx",
+        "expMonth": "xxx",
+        "expYear": "xxx",
+        "code": "xxx"
+      },
+      "collectionIds": null
+    }
+  ]
+}
